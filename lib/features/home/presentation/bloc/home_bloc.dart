@@ -1,3 +1,9 @@
+/*
+Author: Harun Demir
+Create Date: 2.05.2025
+Update Date: 2.05.2025
+*/
+
 import 'package:bloc/bloc.dart';
 import 'package:meta/meta.dart';
 

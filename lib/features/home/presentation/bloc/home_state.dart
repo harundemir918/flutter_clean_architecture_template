@@ -1,3 +1,9 @@
+/*
+Author: Harun Demir
+Create Date: 2.05.2025
+Update Date: 2.05.2025
+*/
+
 part of 'home_bloc.dart';
 
 @immutable
